@@ -26,8 +26,6 @@ public class MainApp {
 		double dtb = sc.nextDouble();
 		
 		
-		
-		
 		System.out.println("nhap vao ten cn");
 		String tenCN =  sc.nextLine();
 		
@@ -39,8 +37,6 @@ public class MainApp {
 		
 		System.out.println("nhap vao he so luong");
 		String heSoLuong = sc.nextLine();
-		
-		
 		
 		
 		System.out.println("nhap vao ten xe");
